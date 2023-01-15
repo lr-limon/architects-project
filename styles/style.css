@@ -23,12 +23,12 @@
 .discription {
     font-weight: 400;
     font-size: 16px;
-    color: #727272;
+    color: #060606;
 }
 
 /* header section styles  */
 .header {
-    background: rgba(255, 144, 14, 0.1);
+    background: rgba(88, 87, 86, 0.1);
     height: 800px;
 }
 
